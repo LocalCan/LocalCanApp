@@ -20,7 +20,7 @@
 * 💸 No subscription
 
 ## Download
-* [LocalCan 2.3.0](https://www.localcan.com/download)
+* [LocalCan latest version](https://www.localcan.com/download)
 * [Changelog](https://www.localcan.com/changelog)
 
 ## Discussion
