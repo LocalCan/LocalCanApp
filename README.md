@@ -17,7 +17,7 @@
 * ✅ Automatic HTTPS
 * 🕵️ Inspect traffic & replay requests
 * ⭐️ Top-rated UX (4.8 from in-app form)
-* 💸 No subscription
+* 💸 One-time payment or subscription options
 
 ## Download
 * [LocalCan latest version](https://www.localcan.com/download)
