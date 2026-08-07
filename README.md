@@ -4,7 +4,7 @@
 
 <h3 align="center">The ngrok alternative with .local domains, a scriptable CLI, and an MCP server for AI agents</h3>
 
-<p align="center">macOS and Windows app &nbsp;·&nbsp; Linux CLI &nbsp;·&nbsp; Free plan</p>
+<p align="center">Desktop app for macOS and Windows &nbsp;·&nbsp; CLI for every platform &nbsp;·&nbsp; Free plan</p>
 
 <p align="center">
   <a href="https://www.localcan.com/download"><b>Download</b></a> ·
