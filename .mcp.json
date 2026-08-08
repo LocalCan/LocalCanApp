@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "localcan": {
+      "command": "localcan",
+      "args": ["mcp"]
+    }
+  }
+}
